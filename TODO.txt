@@ -1,9 +1,12 @@
 RoadMap :
 
 Create a Winform app
-Localize the app english/French
-Create an encryption algorithm
+Localize the app english/French for starter
+Choose an encryption algorithm to encrypt all doc
 Create a folder from where to read all doc
 Create a template for doc names
 Create an IDE for the presentation of doc to read (ease of reading)
-All doc cannot be changed
+All doc cannot be changed (read only mode)
+Create a folder for all enums
+Create an enum for DocTypeColor
+Create an enum for DocType
