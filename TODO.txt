@@ -10,5 +10,5 @@ All doc cannot be changed (read only mode)
 Create a folder for all enums
 Create an enum for DocTypeColor (RedOnWhite, GreenOnWhite, BlackOnWhite)
 Create an enum for DocType
-Create an enum for DocMedia (Tape, CD, Paper)
+Create an enum for DocMedia (Tape, CD, Paper, books)
 
