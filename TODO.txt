@@ -1,0 +1,14 @@
+RoadMap :
+
+Create a Winform app
+Localize the app english/French for starter
+Choose an encryption algorithm to encrypt all doc
+Create a folder from where to read all doc
+Create a template for doc names
+Create an IDE for the presentation of doc to read (ease of reading)
+All doc cannot be changed (read only mode)
+Create a folder for all enums
+Create an enum for DocTypeColor (RedOnWhite, GreenOnWhite, BlackOnWhite)
+Create an enum for DocType
+Create an enum for DocMedia (Tape, CD, Paper, books)
+Create a search text box with several criteria (selection of several DocMedia possible)
