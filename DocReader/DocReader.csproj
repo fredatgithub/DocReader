@@ -54,6 +54,9 @@
       <DependentUpon>AboutBoxApplication.cs</DependentUpon>
     </Compile>
     <Compile Include="ConfigurationOptions.cs" />
+    <Compile Include="Enums\DocMedia.cs" />
+    <Compile Include="Enums\DocType.cs" />
+    <Compile Include="Enums\DocTypeColor.cs" />
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
